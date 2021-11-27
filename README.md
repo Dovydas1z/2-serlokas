@@ -26,6 +26,7 @@ Rimantas: [Github](https://github.com/belauzas)
 ### Code Sample
 
 ```html
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
