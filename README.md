@@ -11,7 +11,7 @@ This project is for educational porpuses only. Pull request are welcome, but pri
 
 Site published at: https://front-end-by-rimantas.github.io/32-grupe-serlokas/
 
-Design: https://new-per.netlify.app/demo-3.html
+Design: https://cdn.discordapp.com/attachments/648536139677958156/648860542743740428/404-Web-Page-Design-Examples-6.png
 
 ## Project features
 
